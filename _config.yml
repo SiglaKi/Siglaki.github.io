@@ -64,7 +64,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: NFT Easter Egg Hunts and Crypto-riddles
+# rss-description: NFT Easter Egg Hunts and Crypto-riddles
 
 # --- General options --- #
 
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -96,8 +96,8 @@ keywords: "NFT,Cryptoart, cryptohunt, NFT hunt, cryptoriddle, tezos, hicetnunc"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#333"
+navbar-text-col: "#e3e3e3"
 navbar-border-col: "#DDDDDD"
 page-col: "#333333"
 text-col: "#e3e3e3"
