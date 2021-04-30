@@ -97,7 +97,7 @@ keywords: "NFT,Cryptoart, cryptohunt, NFT hunt, cryptoriddle, tezos, hicetnunc"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#777777"
+navbar-text-col: "#333"
 navbar-border-col: "#404040"
 page-col: "#333333"
 text-col: "#e3e3e3"
