@@ -31,14 +31,14 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: assets/img/logo.png
+# title-img: assets/img/logo.png
 
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "siglaki@protonmail.com"
 # facebook: deanattali
 # github: daattali
   twitter: Siglaki
@@ -64,7 +64,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: NFT Easter Egg Hunts and Crypto-riddles
 
 # --- General options --- #
 
@@ -99,8 +99,8 @@ keywords: "NFT,Cryptoart, cryptohunt, NFT hunt, cryptoriddle, tezos, hicetnunc"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#333333"
+text-col: "#e3e3e3"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
